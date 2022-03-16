@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite data-provider-thread-count="3" name="Failed suite [Orange HRM Suite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="utilities.TestListener"/>
+  </listeners>
+  <test thread-count="5" name="Firefox Tests(failed)">
+    <parameter name="browser" value="firefox"/>
+    <classes>
+      <class name="testRunners.OrangeHrmTestNGRunner">
+        <methods>
+          <include name="setUp"/>
+          <include name="verifyLoginFunctionality" invocation-numbers="0 1"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- testRunners.OrangeHrmTestNGRunner -->
+    </classes>
+  </test> <!-- Firefox Tests(failed) -->
+</suite> <!-- Failed suite [Orange HRM Suite] -->

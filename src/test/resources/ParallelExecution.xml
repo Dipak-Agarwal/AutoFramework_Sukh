@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Orange HRM Suite" data-provider-thread-count="3">
+	<test name="Firefox Tests">
+		<classes>
+			<class name="testRunners.TestClassSampleUsingThreadLocal" />
+		</classes>
+	</test>
+</suite>

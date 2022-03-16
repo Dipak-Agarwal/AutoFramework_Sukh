@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="4" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-16T01:19:03Z" name="Jupiter App Suite" finished-at="2022-03-16T01:20:57Z" duration-ms="113728">
+    <groups>
+    </groups>
+    <test started-at="2022-03-16T01:19:03Z" name="Chrome Tests" finished-at="2022-03-16T01:20:57Z" duration-ms="113728">
+      <class name="testRunners.TestNGRunner">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:testRunners.TestNGRunner@14a2f921]" started-at="2022-03-16T01:19:04Z" name="setUp" finished-at="2022-03-16T01:19:14Z" duration-ms="9899" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="runTest1(java.lang.String, java.lang.reflect.Method)[pri:0, instance:testRunners.TestNGRunner@14a2f921]" started-at="2022-03-16T01:19:14Z" name="runTest1" description="Verify validation errors on contact tab" finished-at="2022-03-16T01:19:54Z" duration-ms="39371" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void testRunners.TestNGRunner.runTest1(java.lang.String,java.lang.reflect.Method) throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runTest1 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testRunners.TestNGRunner@14a2f921]" started-at="2022-03-16T01:19:54Z" name="tearDown" finished-at="2022-03-16T01:19:54Z" duration-ms="190" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:testRunners.TestNGRunner@14a2f921]" started-at="2022-03-16T01:19:54Z" name="setUp" finished-at="2022-03-16T01:20:01Z" duration-ms="7023" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="runTest3(java.lang.String, java.lang.reflect.Method)[pri:0, instance:testRunners.TestNGRunner@14a2f921]" started-at="2022-03-16T01:20:01Z" name="runTest3" description="Testing shop and cart basic functionality check" finished-at="2022-03-16T01:20:10Z" duration-ms="9145" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void testRunners.TestNGRunner.runTest3(java.lang.String,java.lang.reflect.Method) throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runTest3 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testRunners.TestNGRunner@14a2f921]" started-at="2022-03-16T01:20:10Z" name="tearDown" finished-at="2022-03-16T01:20:14Z" duration-ms="3764" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:testRunners.TestNGRunner@14a2f921]" started-at="2022-03-16T01:20:14Z" name="setUp" finished-at="2022-03-16T01:20:21Z" duration-ms="7071" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="runTest4(java.lang.String, java.lang.reflect.Method)[pri:0, instance:testRunners.TestNGRunner@14a2f921]" started-at="2022-03-16T01:20:21Z" name="runTest4" description="Testing shop and cart advance functionality check" finished-at="2022-03-16T01:20:48Z" duration-ms="26781" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void testRunners.TestNGRunner.runTest4(java.lang.String,java.lang.reflect.Method) throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runTest4 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testRunners.TestNGRunner@14a2f921]" started-at="2022-03-16T01:20:48Z" name="tearDown" finished-at="2022-03-16T01:20:57Z" duration-ms="9181" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testRunners.TestNGRunner -->
+    </test> <!-- Chrome Tests -->
+  </suite> <!-- Jupiter App Suite -->
+</testng-results>

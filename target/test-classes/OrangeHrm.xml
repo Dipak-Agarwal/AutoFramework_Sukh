@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Orange HRM Suite" data-provider-thread-count="3">
+	<listeners>
+		<listener class-name="utilities.TestListener" />
+	</listeners>
+	<test name="Firefox Tests">
+		<parameter name="browser" value="firefox" />
+		<classes>
+			<class name="testRunners.OrangeHrmTestNGRunner" />
+		</classes>
+	</test>
+</suite>

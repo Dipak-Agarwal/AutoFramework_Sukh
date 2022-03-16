@@ -1,0 +1,621 @@
+[INFO ] 2022-03-16 12:09:19.005 [TestNG-tests-1] Log - Started - Tests : Chrome Tests
+[INFO ] 2022-03-16 12:09:19.005 [TestNG-tests-3] Log - Started - Tests : Edge Tests
+[INFO ] 2022-03-16 12:09:19.005 [TestNG-tests-2] Log - Started - Tests : Firefox Tests
+[INFO ] 2022-03-16 12:09:33.228 [TestNG-tests-3] Log - Verified header is available on Home Page
+[INFO ] 2022-03-16 12:09:33.232 [TestNG-tests-3] Log - runTest1 test is starting.
+[INFO ] 2022-03-16 12:09:33.354 [TestNG-tests-1] Log - Verified header is available on Home Page
+[INFO ] 2022-03-16 12:09:33.356 [TestNG-tests-1] Log - runTest1 test is starting.
+[INFO ] 2022-03-16 12:09:35.769 [TestNG-tests-1] Log - Clicked on Contact tab
+[INFO ] 2022-03-16 12:09:36.026 [TestNG-tests-3] Log - Clicked on Contact tab
+[INFO ] 2022-03-16 12:09:37.176 [TestNG-tests-1] Log - Verified header is available on Contact Page
+[INFO ] 2022-03-16 12:09:37.548 [TestNG-tests-3] Log - Verified header is available on Contact Page
+[INFO ] 2022-03-16 12:09:37.843 [TestNG-tests-2] Log - Verified header is available on Home Page
+[INFO ] 2022-03-16 12:09:37.844 [TestNG-tests-2] Log - runTest1 test is starting.
+[INFO ] 2022-03-16 12:09:38.356 [TestNG-tests-1] Log - Clicked on Submit button
+[INFO ] 2022-03-16 12:09:38.827 [TestNG-tests-3] Log - Clicked on Submit button
+[INFO ] 2022-03-16 12:09:39.237 [TestNG-tests-2] Log - Clicked on Contact tab
+[INFO ] 2022-03-16 12:09:39.593 [TestNG-tests-1] Log - Expected and actual error messages match
+[INFO ] 2022-03-16 12:09:40.032 [TestNG-tests-3] Log - Expected and actual error messages match
+[INFO ] 2022-03-16 12:09:40.378 [TestNG-tests-2] Log - Verified header is available on Contact Page
+[INFO ] 2022-03-16 12:09:40.787 [TestNG-tests-1] Log - Entered text in Forename text box as Dipak
+[INFO ] 2022-03-16 12:09:41.203 [TestNG-tests-3] Log - Entered text in Forename text box as Dipak
+[INFO ] 2022-03-16 12:09:41.799 [TestNG-tests-2] Log - Clicked on Submit button
+[INFO ] 2022-03-16 12:09:42.085 [TestNG-tests-1] Log - Entered text in Email text box as dipak_test@gmail.com
+[INFO ] 2022-03-16 12:09:42.431 [TestNG-tests-3] Log - Entered text in Email text box as dipak_test@gmail.com
+[INFO ] 2022-03-16 12:09:42.928 [TestNG-tests-2] Log - Expected and actual error messages match
+[INFO ] 2022-03-16 12:09:43.395 [TestNG-tests-1] Log - Entered text in Message text area as Exceptional service
+[INFO ] 2022-03-16 12:09:43.655 [TestNG-tests-3] Log - Entered text in Message text area as Exceptional service
+[INFO ] 2022-03-16 12:09:44.067 [TestNG-tests-2] Log - Entered text in Forename text box as Dipak
+[INFO ] 2022-03-16 12:09:45.270 [TestNG-tests-2] Log - Entered text in Email text box as dipak_test@gmail.com
+[INFO ] 2022-03-16 12:09:46.489 [TestNG-tests-2] Log - Entered text in Message text area as Exceptional service
+[INFO ] 2022-03-16 12:10:13.453 [TestNG-tests-1] Log - No more errors are displayed on the page
+[INFO ] 2022-03-16 12:10:13.454 [TestNG-tests-1] Log - runTest1 test passed.
+[INFO ] 2022-03-16 12:10:14.233 [TestNG-tests-3] Log - No more errors are displayed on the page
+[INFO ] 2022-03-16 12:10:14.234 [TestNG-tests-3] Log - runTest1 test passed.
+[INFO ] 2022-03-16 12:10:16.581 [TestNG-tests-2] Log - No more errors are displayed on the page
+[INFO ] 2022-03-16 12:10:16.582 [TestNG-tests-2] Log - runTest1 test passed.
+[INFO ] 2022-03-16 12:10:26.842 [TestNG-tests-3] Log - Verified header is available on Home Page
+[INFO ] 2022-03-16 12:10:26.843 [TestNG-tests-3] Log - runTest2 test is starting.
+[INFO ] 2022-03-16 12:10:28.926 [TestNG-tests-1] Log - Verified header is available on Home Page
+[INFO ] 2022-03-16 12:10:28.927 [TestNG-tests-1] Log - runTest2 test is starting.
+[INFO ] 2022-03-16 12:10:30.542 [TestNG-tests-3] Log - Clicked on Contact tab
+[INFO ] 2022-03-16 12:10:30.550 [TestNG-tests-1] Log - Clicked on Contact tab
+[INFO ] 2022-03-16 12:10:32.288 [TestNG-tests-1] Log - Verified header is available on Contact Page
+[INFO ] 2022-03-16 12:10:32.457 [TestNG-tests-3] Log - Verified header is available on Contact Page
+[INFO ] 2022-03-16 12:10:33.647 [TestNG-tests-1] Log - Entered text in Forename text box as Dipak
+[INFO ] 2022-03-16 12:10:33.915 [TestNG-tests-3] Log - Entered text in Forename text box as Dipak
+[INFO ] 2022-03-16 12:10:34.675 [TestNG-tests-2] Log - Verified header is available on Home Page
+[INFO ] 2022-03-16 12:10:34.675 [TestNG-tests-2] Log - runTest2 test is starting.
+[INFO ] 2022-03-16 12:10:35.012 [TestNG-tests-1] Log - Entered text in Email text box as dipak_test@gmail.com
+[INFO ] 2022-03-16 12:10:35.305 [TestNG-tests-3] Log - Entered text in Email text box as dipak_test@gmail.com
+[INFO ] 2022-03-16 12:10:36.043 [TestNG-tests-2] Log - Clicked on Contact tab
+[INFO ] 2022-03-16 12:10:36.334 [TestNG-tests-1] Log - Entered text in Message text area as Exceptional service
+[INFO ] 2022-03-16 12:10:36.663 [TestNG-tests-3] Log - Entered text in Message text area as Exceptional service
+[INFO ] 2022-03-16 12:10:37.193 [TestNG-tests-2] Log - Verified header is available on Contact Page
+[INFO ] 2022-03-16 12:10:37.702 [TestNG-tests-1] Log - Clicked on Submit button
+[INFO ] 2022-03-16 12:10:38.122 [TestNG-tests-3] Log - Clicked on Submit button
+[INFO ] 2022-03-16 12:10:38.490 [TestNG-tests-2] Log - Entered text in Forename text box as Dipak
+[INFO ] 2022-03-16 12:10:40.043 [TestNG-tests-2] Log - Entered text in Email text box as dipak_test@gmail.com
+[INFO ] 2022-03-16 12:10:41.209 [TestNG-tests-2] Log - Entered text in Message text area as Exceptional service
+[INFO ] 2022-03-16 12:10:41.556 [TestNG-tests-3] Log - Success msg for feedback is displayed
+[INFO ] 2022-03-16 12:10:41.556 [TestNG-tests-3] Log - runTest2 test passed.
+[INFO ] 2022-03-16 12:10:42.781 [TestNG-tests-2] Log - Clicked on Submit button
+[INFO ] 2022-03-16 12:10:44.841 [TestNG-tests-1] Log - Success msg for feedback is displayed
+[INFO ] 2022-03-16 12:10:44.842 [TestNG-tests-1] Log - runTest2 test passed.
+[INFO ] 2022-03-16 12:10:46.564 [TestNG-tests-2] Log - Success msg for feedback is displayed
+[INFO ] 2022-03-16 12:10:46.565 [TestNG-tests-2] Log - runTest2 test passed.
+[INFO ] 2022-03-16 12:10:52.964 [TestNG-tests-3] Log - Verified header is available on Home Page
+[INFO ] 2022-03-16 12:10:52.965 [TestNG-tests-3] Log - runTest2 test is starting.
+[INFO ] 2022-03-16 12:10:56.528 [TestNG-tests-3] Log - Clicked on Contact tab
+[INFO ] 2022-03-16 12:10:58.217 [TestNG-tests-3] Log - Verified header is available on Contact Page
+[INFO ] 2022-03-16 12:10:58.744 [TestNG-tests-1] Log - Verified header is available on Home Page
+[INFO ] 2022-03-16 12:10:58.745 [TestNG-tests-1] Log - runTest2 test is starting.
+[INFO ] 2022-03-16 12:11:00.105 [TestNG-tests-3] Log - Entered text in Forename text box as Dipak
+[INFO ] 2022-03-16 12:11:00.942 [TestNG-tests-1] Log - Clicked on Contact tab
+[INFO ] 2022-03-16 12:11:01.460 [TestNG-tests-3] Log - Entered text in Email text box as dipak_test@gmail.com
+[INFO ] 2022-03-16 12:11:02.278 [TestNG-tests-1] Log - Verified header is available on Contact Page
+[INFO ] 2022-03-16 12:11:02.736 [TestNG-tests-3] Log - Entered text in Message text area as Exceptional service
+[INFO ] 2022-03-16 12:11:03.615 [TestNG-tests-1] Log - Entered text in Forename text box as Dipak
+[INFO ] 2022-03-16 12:11:03.916 [TestNG-tests-3] Log - Clicked on Submit button
+[INFO ] 2022-03-16 12:11:04.419 [TestNG-tests-2] Log - Verified header is available on Home Page
+[INFO ] 2022-03-16 12:11:04.419 [TestNG-tests-2] Log - runTest2 test is starting.
+[INFO ] 2022-03-16 12:11:04.917 [TestNG-tests-1] Log - Entered text in Email text box as dipak_test@gmail.com
+[INFO ] 2022-03-16 12:11:05.815 [TestNG-tests-2] Log - Clicked on Contact tab
+[INFO ] 2022-03-16 12:11:06.394 [TestNG-tests-1] Log - Entered text in Message text area as Exceptional service
+[INFO ] 2022-03-16 12:11:06.953 [TestNG-tests-2] Log - Verified header is available on Contact Page
+[INFO ] 2022-03-16 12:11:07.625 [TestNG-tests-1] Log - Clicked on Submit button
+[INFO ] 2022-03-16 12:11:08.069 [TestNG-tests-2] Log - Entered text in Forename text box as Dipak
+[INFO ] 2022-03-16 12:11:09.265 [TestNG-tests-2] Log - Entered text in Email text box as dipak_test@gmail.com
+[INFO ] 2022-03-16 12:11:10.477 [TestNG-tests-2] Log - Entered text in Message text area as Exceptional service
+[INFO ] 2022-03-16 12:11:12.074 [TestNG-tests-2] Log - Clicked on Submit button
+[INFO ] 2022-03-16 12:11:15.029 [TestNG-tests-3] Log - Success msg for feedback is displayed
+[INFO ] 2022-03-16 12:11:15.029 [TestNG-tests-3] Log - runTest2 test passed.
+[INFO ] 2022-03-16 12:11:22.136 [TestNG-tests-1] Log - Success msg for feedback is displayed
+[INFO ] 2022-03-16 12:11:22.137 [TestNG-tests-1] Log - runTest2 test passed.
+[INFO ] 2022-03-16 12:11:28.205 [TestNG-tests-2] Log - Success msg for feedback is displayed
+[INFO ] 2022-03-16 12:11:28.206 [TestNG-tests-2] Log - runTest2 test passed.
+[INFO ] 2022-03-16 12:11:30.934 [TestNG-tests-3] Log - Verified header is available on Home Page
+[INFO ] 2022-03-16 12:11:30.934 [TestNG-tests-3] Log - runTest2 test is starting.
+[INFO ] 2022-03-16 12:11:32.790 [TestNG-tests-3] Log - Clicked on Contact tab
+[INFO ] 2022-03-16 12:11:34.028 [TestNG-tests-1] Log - Verified header is available on Home Page
+[INFO ] 2022-03-16 12:11:34.029 [TestNG-tests-1] Log - runTest2 test is starting.
+[INFO ] 2022-03-16 12:11:34.306 [TestNG-tests-3] Log - Verified header is available on Contact Page
+[INFO ] 2022-03-16 12:11:35.327 [TestNG-tests-1] Log - Clicked on Contact tab
+[INFO ] 2022-03-16 12:11:35.812 [TestNG-tests-3] Log - Entered text in Forename text box as Dipak
+[INFO ] 2022-03-16 12:11:36.797 [TestNG-tests-1] Log - Verified header is available on Contact Page
+[INFO ] 2022-03-16 12:11:37.435 [TestNG-tests-3] Log - Entered text in Email text box as dipak_test@gmail.com
+[INFO ] 2022-03-16 12:11:38.410 [TestNG-tests-1] Log - Entered text in Forename text box as Dipak
+[INFO ] 2022-03-16 12:11:38.681 [TestNG-tests-3] Log - Entered text in Message text area as Exceptional service
+[INFO ] 2022-03-16 12:11:40.498 [TestNG-tests-1] Log - Entered text in Email text box as dipak_test@gmail.com
+[INFO ] 2022-03-16 12:11:40.863 [TestNG-tests-3] Log - Clicked on Submit button
+[INFO ] 2022-03-16 12:11:42.292 [TestNG-tests-1] Log - Entered text in Message text area as Exceptional service
+[INFO ] 2022-03-16 12:11:43.115 [TestNG-tests-3] Log - Success msg for feedback is displayed
+[INFO ] 2022-03-16 12:11:43.115 [TestNG-tests-3] Log - runTest2 test passed.
+[INFO ] 2022-03-16 12:11:43.634 [TestNG-tests-1] Log - Clicked on Submit button
+[INFO ] 2022-03-16 12:11:45.935 [TestNG-tests-2] Log - Verified header is available on Home Page
+[INFO ] 2022-03-16 12:11:45.935 [TestNG-tests-2] Log - runTest2 test is starting.
+[INFO ] 2022-03-16 12:11:47.586 [TestNG-tests-2] Log - Clicked on Contact tab
+[INFO ] 2022-03-16 12:11:48.759 [TestNG-tests-2] Log - Verified header is available on Contact Page
+[INFO ] 2022-03-16 12:11:49.933 [TestNG-tests-2] Log - Entered text in Forename text box as Dipak
+[INFO ] 2022-03-16 12:11:51.127 [TestNG-tests-2] Log - Entered text in Email text box as dipak_test@gmail.com
+[INFO ] 2022-03-16 12:11:52.324 [TestNG-tests-2] Log - Entered text in Message text area as Exceptional service
+[INFO ] 2022-03-16 12:11:53.031 [TestNG-tests-3] Log - Verified header is available on Home Page
+[INFO ] 2022-03-16 12:11:53.031 [TestNG-tests-3] Log - runTest2 test is starting.
+[INFO ] 2022-03-16 12:11:53.840 [TestNG-tests-2] Log - Clicked on Submit button
+[INFO ] 2022-03-16 12:11:54.310 [TestNG-tests-3] Log - Clicked on Contact tab
+[INFO ] 2022-03-16 12:11:54.984 [TestNG-tests-1] Log - Success msg for feedback is displayed
+[INFO ] 2022-03-16 12:11:54.985 [TestNG-tests-1] Log - runTest2 test passed.
+[INFO ] 2022-03-16 12:11:57.153 [TestNG-tests-3] Log - Verified header is available on Contact Page
+[INFO ] 2022-03-16 12:11:59.423 [TestNG-tests-3] Log - Entered text in Forename text box as Dipak
+[INFO ] 2022-03-16 12:12:00.843 [TestNG-tests-3] Log - Entered text in Email text box as dipak_test@gmail.com
+[INFO ] 2022-03-16 12:12:02.191 [TestNG-tests-3] Log - Entered text in Message text area as Exceptional service
+[INFO ] 2022-03-16 12:12:03.435 [TestNG-tests-3] Log - Clicked on Submit button
+[INFO ] 2022-03-16 12:12:05.165 [TestNG-tests-2] Log - Success msg for feedback is displayed
+[INFO ] 2022-03-16 12:12:05.165 [TestNG-tests-2] Log - runTest2 test passed.
+[INFO ] 2022-03-16 12:12:07.994 [TestNG-tests-3] Log - Success msg for feedback is displayed
+[INFO ] 2022-03-16 12:12:07.995 [TestNG-tests-3] Log - runTest2 test passed.
+[INFO ] 2022-03-16 12:12:13.569 [TestNG-tests-1] Log - Verified header is available on Home Page
+[INFO ] 2022-03-16 12:12:13.570 [TestNG-tests-1] Log - runTest2 test is starting.
+[INFO ] 2022-03-16 12:12:15.518 [TestNG-tests-1] Log - Clicked on Contact tab
+[INFO ] 2022-03-16 12:12:17.048 [TestNG-tests-1] Log - Verified header is available on Contact Page
+[INFO ] 2022-03-16 12:12:18.904 [TestNG-tests-1] Log - Entered text in Forename text box as Dipak
+[INFO ] 2022-03-16 12:12:20.364 [TestNG-tests-1] Log - Entered text in Email text box as dipak_test@gmail.com
+[INFO ] 2022-03-16 12:12:20.605 [TestNG-tests-3] Log - Verified header is available on Home Page
+[INFO ] 2022-03-16 12:12:20.606 [TestNG-tests-3] Log - runTest2 test is starting.
+[INFO ] 2022-03-16 12:12:23.102 [TestNG-tests-1] Log - Entered text in Message text area as Exceptional service
+[INFO ] 2022-03-16 12:12:24.554 [TestNG-tests-3] Log - Clicked on Contact tab
+[INFO ] 2022-03-16 12:12:25.101 [TestNG-tests-1] Log - Clicked on Submit button
+[INFO ] 2022-03-16 12:12:25.821 [TestNG-tests-2] Log - Verified header is available on Home Page
+[INFO ] 2022-03-16 12:12:25.821 [TestNG-tests-2] Log - runTest2 test is starting.
+[INFO ] 2022-03-16 12:12:26.135 [TestNG-tests-3] Log - Verified header is available on Contact Page
+[INFO ] 2022-03-16 12:12:27.170 [TestNG-tests-2] Log - Clicked on Contact tab
+[INFO ] 2022-03-16 12:12:27.606 [TestNG-tests-3] Log - Entered text in Forename text box as Dipak
+[INFO ] 2022-03-16 12:12:28.273 [TestNG-tests-2] Log - Verified header is available on Contact Page
+[INFO ] 2022-03-16 12:12:28.962 [TestNG-tests-3] Log - Entered text in Email text box as dipak_test@gmail.com
+[INFO ] 2022-03-16 12:12:29.422 [TestNG-tests-2] Log - Entered text in Forename text box as Dipak
+[INFO ] 2022-03-16 12:12:30.348 [TestNG-tests-3] Log - Entered text in Message text area as Exceptional service
+[INFO ] 2022-03-16 12:12:30.599 [TestNG-tests-2] Log - Entered text in Email text box as dipak_test@gmail.com
+[INFO ] 2022-03-16 12:12:31.561 [TestNG-tests-3] Log - Clicked on Submit button
+[INFO ] 2022-03-16 12:12:31.997 [TestNG-tests-2] Log - Entered text in Message text area as Exceptional service
+[INFO ] 2022-03-16 12:12:33.606 [TestNG-tests-2] Log - Clicked on Submit button
+[INFO ] 2022-03-16 12:12:37.018 [TestNG-tests-1] Log - Success msg for feedback is displayed
+[INFO ] 2022-03-16 12:12:37.019 [TestNG-tests-1] Log - runTest2 test passed.
+[INFO ] 2022-03-16 12:12:38.675 [TestNG-tests-3] Log - Success msg for feedback is displayed
+[INFO ] 2022-03-16 12:12:38.676 [TestNG-tests-3] Log - runTest2 test passed.
+[INFO ] 2022-03-16 12:12:39.970 [TestNG-tests-2] Log - Success msg for feedback is displayed
+[INFO ] 2022-03-16 12:12:39.972 [TestNG-tests-2] Log - runTest2 test passed.
+[INFO ] 2022-03-16 12:12:50.404 [TestNG-tests-3] Log - Verified header is available on Home Page
+[INFO ] 2022-03-16 12:12:50.404 [TestNG-tests-3] Log - runTest3 test is starting.
+[INFO ] 2022-03-16 12:12:54.007 [TestNG-tests-3] Log - Clicked on Shop tab
+[INFO ] 2022-03-16 12:12:57.138 [TestNG-tests-3] Log - Clicked on Buy button for Funny Cow
+[INFO ] 2022-03-16 12:12:59.181 [TestNG-tests-3] Log - Clicked on Buy button for Funny Cow
+[INFO ] 2022-03-16 12:13:01.215 [TestNG-tests-3] Log - Clicked on Buy button for Fluffy Bunny
+[INFO ] 2022-03-16 12:13:02.010 [TestNG-tests-2] Log - Verified header is available on Home Page
+[INFO ] 2022-03-16 12:13:02.011 [TestNG-tests-2] Log - runTest2 test is starting.
+[INFO ] 2022-03-16 12:13:03.424 [TestNG-tests-2] Log - Clicked on Contact tab
+[INFO ] 2022-03-16 12:13:04.645 [TestNG-tests-3] Log - Clicked on Cart icon
+[INFO ] 2022-03-16 12:13:04.932 [TestNG-tests-2] Log - Verified header is available on Contact Page
+[INFO ] 2022-03-16 12:13:06.161 [TestNG-tests-2] Log - Entered text in Forename text box as Dipak
+[INFO ] 2022-03-16 12:13:06.715 [TestNG-tests-3] Log - Verified quantity in cart for item Funny Cow as 2
+[INFO ] 2022-03-16 12:13:07.533 [TestNG-tests-2] Log - Entered text in Email text box as dipak_test@gmail.com
+[INFO ] 2022-03-16 12:13:08.087 [TestNG-tests-3] Log - Verified quantity in cart for item Fluffy Bunny as 1
+[INFO ] 2022-03-16 12:13:08.088 [TestNG-tests-3] Log - runTest3 test passed.
+[INFO ] 2022-03-16 12:13:08.508 [TestNG-tests-1] Log - Verified header is available on Home Page
+[INFO ] 2022-03-16 12:13:08.509 [TestNG-tests-1] Log - runTest2 test is starting.
+[INFO ] 2022-03-16 12:13:08.757 [TestNG-tests-2] Log - Entered text in Message text area as Exceptional service
+[INFO ] 2022-03-16 12:13:09.695 [TestNG-tests-1] Log - Clicked on Contact tab
+[INFO ] 2022-03-16 12:13:10.344 [TestNG-tests-2] Log - Clicked on Submit button
+[INFO ] 2022-03-16 12:13:11.090 [TestNG-tests-1] Log - Verified header is available on Contact Page
+[INFO ] 2022-03-16 12:13:12.317 [TestNG-tests-2] Log - Success msg for feedback is displayed
+[INFO ] 2022-03-16 12:13:12.318 [TestNG-tests-2] Log - runTest2 test passed.
+[INFO ] 2022-03-16 12:13:12.851 [TestNG-tests-1] Log - Entered text in Forename text box as Dipak
+[INFO ] 2022-03-16 12:13:14.148 [TestNG-tests-1] Log - Entered text in Email text box as dipak_test@gmail.com
+[INFO ] 2022-03-16 12:13:15.560 [TestNG-tests-1] Log - Entered text in Message text area as Exceptional service
+[INFO ] 2022-03-16 12:13:17.073 [TestNG-tests-1] Log - Clicked on Submit button
+[INFO ] 2022-03-16 12:13:31.110 [TestNG-tests-3] Log - Verified header is available on Home Page
+[INFO ] 2022-03-16 12:13:31.111 [TestNG-tests-3] Log - runTest4 test is starting.
+[INFO ] 2022-03-16 12:13:31.209 [TestNG-tests-2] Log - Verified header is available on Home Page
+[INFO ] 2022-03-16 12:13:31.210 [TestNG-tests-2] Log - runTest3 test is starting.
+[INFO ] 2022-03-16 12:13:33.069 [TestNG-tests-1] Log - Success msg for feedback is displayed
+[INFO ] 2022-03-16 12:13:33.070 [TestNG-tests-1] Log - runTest2 test passed.
+[INFO ] 2022-03-16 12:13:33.287 [TestNG-tests-2] Log - Clicked on Shop tab
+[INFO ] 2022-03-16 12:13:34.000 [TestNG-tests-3] Log - Clicked on Shop tab
+[INFO ] 2022-03-16 12:13:34.935 [TestNG-tests-2] Log - Clicked on Buy button for Funny Cow
+[INFO ] 2022-03-16 12:13:36.290 [TestNG-tests-2] Log - Clicked on Buy button for Funny Cow
+[INFO ] 2022-03-16 12:13:37.655 [TestNG-tests-2] Log - Clicked on Buy button for Fluffy Bunny
+[INFO ] 2022-03-16 12:13:38.996 [TestNG-tests-2] Log - Clicked on Cart icon
+[INFO ] 2022-03-16 12:13:39.684 [TestNG-tests-3] Log - Clicked on Buy button for Valentine Bear
+[INFO ] 2022-03-16 12:13:40.180 [TestNG-tests-2] Log - Verified quantity in cart for item Funny Cow as 2
+[INFO ] 2022-03-16 12:13:40.816 [TestNG-tests-3] Log - Clicked on Buy button for Valentine Bear
+[INFO ] 2022-03-16 12:13:41.356 [TestNG-tests-2] Log - Verified quantity in cart for item Fluffy Bunny as 1
+[INFO ] 2022-03-16 12:13:41.361 [TestNG-tests-2] Log - runTest3 test passed.
+[INFO ] 2022-03-16 12:13:43.266 [TestNG-tests-3] Log - Clicked on Buy button for Valentine Bear
+[INFO ] 2022-03-16 12:13:44.927 [TestNG-tests-3] Log - Clicked on Buy button for Fluffy Bunny
+[INFO ] 2022-03-16 12:13:46.147 [TestNG-tests-3] Log - Clicked on Buy button for Fluffy Bunny
+[INFO ] 2022-03-16 12:13:47.903 [TestNG-tests-3] Log - Clicked on Buy button for Fluffy Bunny
+[INFO ] 2022-03-16 12:13:49.199 [TestNG-tests-3] Log - Clicked on Buy button for Fluffy Bunny
+[INFO ] 2022-03-16 12:13:49.632 [TestNG-tests-1] Log - Verified header is available on Home Page
+[INFO ] 2022-03-16 12:13:49.633 [TestNG-tests-1] Log - runTest3 test is starting.
+[INFO ] 2022-03-16 12:13:50.601 [TestNG-tests-3] Log - Clicked on Buy button for Fluffy Bunny
+[INFO ] 2022-03-16 12:13:51.200 [TestNG-tests-1] Log - Clicked on Shop tab
+[INFO ] 2022-03-16 12:13:53.477 [TestNG-tests-3] Log - Clicked on Buy button for Stuffed Frog
+[INFO ] 2022-03-16 12:13:54.005 [TestNG-tests-1] Log - Clicked on Buy button for Funny Cow
+[INFO ] 2022-03-16 12:13:55.586 [TestNG-tests-3] Log - Clicked on Buy button for Stuffed Frog
+[INFO ] 2022-03-16 12:13:55.682 [TestNG-tests-1] Log - Clicked on Buy button for Funny Cow
+[INFO ] 2022-03-16 12:13:57.345 [TestNG-tests-3] Log - Clicked on Cart icon
+[INFO ] 2022-03-16 12:13:57.649 [TestNG-tests-1] Log - Clicked on Buy button for Fluffy Bunny
+[INFO ] 2022-03-16 12:13:59.316 [TestNG-tests-3] Log - Verified price in cart for item Fluffy Bunny as $8.99
+[INFO ] 2022-03-16 12:13:59.711 [TestNG-tests-1] Log - Clicked on Cart icon
+[INFO ] 2022-03-16 12:14:00.679 [TestNG-tests-3] Log - Verified subtotal in cart for item Fluffy Bunny as 44.95
+[INFO ] 2022-03-16 12:14:01.218 [TestNG-tests-1] Log - Verified quantity in cart for item Funny Cow as 2
+[INFO ] 2022-03-16 12:14:01.953 [TestNG-tests-3] Log - Verified price in cart for item Stuffed Frog as $10.99
+[INFO ] 2022-03-16 12:14:02.435 [TestNG-tests-1] Log - Verified quantity in cart for item Fluffy Bunny as 1
+[INFO ] 2022-03-16 12:14:02.436 [TestNG-tests-1] Log - runTest3 test passed.
+[INFO ] 2022-03-16 12:14:03.023 [TestNG-tests-2] Log - Verified header is available on Home Page
+[INFO ] 2022-03-16 12:14:03.024 [TestNG-tests-2] Log - runTest4 test is starting.
+[INFO ] 2022-03-16 12:14:03.230 [TestNG-tests-3] Log - Verified subtotal in cart for item Stuffed Frog as 21.98
+[INFO ] 2022-03-16 12:14:04.418 [TestNG-tests-2] Log - Clicked on Shop tab
+[INFO ] 2022-03-16 12:14:04.782 [TestNG-tests-3] Log - Verified price in cart for item Valentine Bear as $13.99
+[INFO ] 2022-03-16 12:14:06.080 [TestNG-tests-3] Log - Verified subtotal in cart for item Valentine Bear as 41.97
+[INFO ] 2022-03-16 12:14:09.479 [TestNG-tests-2] Log - Clicked on Buy button for Valentine Bear
+[INFO ] 2022-03-16 12:14:10.869 [TestNG-tests-2] Log - Clicked on Buy button for Valentine Bear
+[INFO ] 2022-03-16 12:14:12.336 [TestNG-tests-2] Log - Clicked on Buy button for Valentine Bear
+[INFO ] 2022-03-16 12:14:13.800 [TestNG-tests-2] Log - Clicked on Buy button for Fluffy Bunny
+[INFO ] 2022-03-16 12:14:15.059 [TestNG-tests-1] Log - Verified header is available on Home Page
+[INFO ] 2022-03-16 12:14:15.060 [TestNG-tests-1] Log - runTest4 test is starting.
+[INFO ] 2022-03-16 12:14:15.163 [TestNG-tests-2] Log - Clicked on Buy button for Fluffy Bunny
+[INFO ] 2022-03-16 12:14:16.377 [TestNG-tests-1] Log - Clicked on Shop tab
+[INFO ] 2022-03-16 12:14:16.479 [TestNG-tests-2] Log - Clicked on Buy button for Fluffy Bunny
+[INFO ] 2022-03-16 12:14:17.848 [TestNG-tests-2] Log - Clicked on Buy button for Fluffy Bunny
+[INFO ] 2022-03-16 12:14:19.211 [TestNG-tests-2] Log - Clicked on Buy button for Fluffy Bunny
+[INFO ] 2022-03-16 12:14:20.536 [TestNG-tests-2] Log - Clicked on Buy button for Stuffed Frog
+[INFO ] 2022-03-16 12:14:21.876 [TestNG-tests-2] Log - Clicked on Buy button for Stuffed Frog
+[INFO ] 2022-03-16 12:14:22.680 [TestNG-tests-3] Log - Verified total price for all items in cart 108.9
+[INFO ] 2022-03-16 12:14:22.680 [TestNG-tests-3] Log - runTest4 test passed.
+[INFO ] 2022-03-16 12:14:22.812 [TestNG-tests-1] Log - Clicked on Buy button for Valentine Bear
+[INFO ] 2022-03-16 12:14:23.321 [TestNG-tests-2] Log - Clicked on Cart icon
+[INFO ] 2022-03-16 12:14:24.255 [TestNG-tests-1] Log - Clicked on Buy button for Valentine Bear
+[INFO ] 2022-03-16 12:14:24.583 [TestNG-tests-2] Log - Verified price in cart for item Fluffy Bunny as $8.99
+[INFO ] 2022-03-16 12:14:25.423 [TestNG-tests-1] Log - Clicked on Buy button for Valentine Bear
+[INFO ] 2022-03-16 12:14:25.569 [TestNG-tests-3] Log - Finished - Tests : Edge Tests
+[INFO ] 2022-03-16 12:14:25.790 [TestNG-tests-2] Log - Verified subtotal in cart for item Fluffy Bunny as 44.95
+[INFO ] 2022-03-16 12:14:26.995 [TestNG-tests-2] Log - Verified price in cart for item Stuffed Frog as $10.99
+[INFO ] 2022-03-16 12:14:27.590 [TestNG-tests-1] Log - Clicked on Buy button for Fluffy Bunny
+[INFO ] 2022-03-16 12:14:28.173 [TestNG-tests-2] Log - Verified subtotal in cart for item Stuffed Frog as 21.98
+[INFO ] 2022-03-16 12:14:28.820 [TestNG-tests-1] Log - Clicked on Buy button for Fluffy Bunny
+[INFO ] 2022-03-16 12:14:29.293 [TestNG-tests-2] Log - Verified price in cart for item Valentine Bear as $13.99
+[INFO ] 2022-03-16 12:14:30.154 [TestNG-tests-1] Log - Clicked on Buy button for Fluffy Bunny
+[INFO ] 2022-03-16 12:14:30.413 [TestNG-tests-2] Log - Verified subtotal in cart for item Valentine Bear as 41.97
+[INFO ] 2022-03-16 12:14:31.373 [TestNG-tests-1] Log - Clicked on Buy button for Fluffy Bunny
+[INFO ] 2022-03-16 12:14:31.608 [TestNG-tests-2] Log - Verified total price for all items in cart 108.9
+[INFO ] 2022-03-16 12:14:31.608 [TestNG-tests-2] Log - runTest4 test passed.
+[INFO ] 2022-03-16 12:14:32.545 [TestNG-tests-1] Log - Clicked on Buy button for Fluffy Bunny
+[INFO ] 2022-03-16 12:14:33.752 [TestNG-tests-1] Log - Clicked on Buy button for Stuffed Frog
+[INFO ] 2022-03-16 12:14:34.426 [TestNG-tests-2] Log - Finished - Tests : Firefox Tests
+[INFO ] 2022-03-16 12:14:34.882 [TestNG-tests-1] Log - Clicked on Buy button for Stuffed Frog
+[INFO ] 2022-03-16 12:14:36.072 [TestNG-tests-1] Log - Clicked on Cart icon
+[INFO ] 2022-03-16 12:14:37.399 [TestNG-tests-1] Log - Verified price in cart for item Fluffy Bunny as $8.99
+[INFO ] 2022-03-16 12:14:38.535 [TestNG-tests-1] Log - Verified subtotal in cart for item Fluffy Bunny as 44.95
+[INFO ] 2022-03-16 12:14:39.632 [TestNG-tests-1] Log - Verified price in cart for item Stuffed Frog as $10.99
+[INFO ] 2022-03-16 12:14:40.727 [TestNG-tests-1] Log - Verified subtotal in cart for item Stuffed Frog as 21.98
+[INFO ] 2022-03-16 12:14:41.859 [TestNG-tests-1] Log - Verified price in cart for item Valentine Bear as $13.99
+[INFO ] 2022-03-16 12:14:42.982 [TestNG-tests-1] Log - Verified subtotal in cart for item Valentine Bear as 41.97
+[INFO ] 2022-03-16 12:14:44.097 [TestNG-tests-1] Log - Verified total price for all items in cart 108.9
+[INFO ] 2022-03-16 12:14:44.097 [TestNG-tests-1] Log - runTest4 test passed.
+[INFO ] 2022-03-16 12:14:44.719 [TestNG-tests-1] Log - Finished - Tests : Chrome Tests
+[INFO ] 2022-03-16 12:19:04.807 [TestNG-tests-1] Log - Started - Tests : Chrome Tests
+[INFO ] 2022-03-16 12:19:14.780 [TestNG-tests-1] Log - Verified header is available on Home Page
+[INFO ] 2022-03-16 12:19:14.783 [TestNG-tests-1] Log - runTest1 test is starting.
+[INFO ] 2022-03-16 12:19:16.499 [TestNG-tests-1] Log - Clicked on Contact tab
+[INFO ] 2022-03-16 12:19:17.843 [TestNG-tests-1] Log - Verified header is available on Contact Page
+[INFO ] 2022-03-16 12:19:19.088 [TestNG-tests-1] Log - Clicked on Submit button
+[INFO ] 2022-03-16 12:19:20.301 [TestNG-tests-1] Log - Expected and actual error messages match
+[INFO ] 2022-03-16 12:19:21.522 [TestNG-tests-1] Log - Entered text in Forename text box as Dipak
+[INFO ] 2022-03-16 12:19:22.822 [TestNG-tests-1] Log - Entered text in Email text box as dipak_test@gmail.com
+[INFO ] 2022-03-16 12:19:24.078 [TestNG-tests-1] Log - Entered text in Message text area as Exceptional service
+[INFO ] 2022-03-16 12:19:54.153 [TestNG-tests-1] Log - No more errors are displayed on the page
+[INFO ] 2022-03-16 12:19:54.155 [TestNG-tests-1] Log - runTest1 test passed.
+[INFO ] 2022-03-16 12:20:01.373 [TestNG-tests-1] Log - Verified header is available on Home Page
+[INFO ] 2022-03-16 12:20:01.374 [TestNG-tests-1] Log - runTest3 test is starting.
+[INFO ] 2022-03-16 12:20:02.550 [TestNG-tests-1] Log - Clicked on Shop tab
+[INFO ] 2022-03-16 12:20:03.912 [TestNG-tests-1] Log - Clicked on Buy button for Funny Cow
+[INFO ] 2022-03-16 12:20:05.040 [TestNG-tests-1] Log - Clicked on Buy button for Funny Cow
+[INFO ] 2022-03-16 12:20:06.205 [TestNG-tests-1] Log - Clicked on Buy button for Fluffy Bunny
+[INFO ] 2022-03-16 12:20:07.781 [TestNG-tests-1] Log - Clicked on Cart icon
+[INFO ] 2022-03-16 12:20:09.329 [TestNG-tests-1] Log - Verified quantity in cart for item Funny Cow as 2
+[INFO ] 2022-03-16 12:20:10.519 [TestNG-tests-1] Log - Verified quantity in cart for item Fluffy Bunny as 1
+[INFO ] 2022-03-16 12:20:10.520 [TestNG-tests-1] Log - runTest3 test passed.
+[INFO ] 2022-03-16 12:20:21.355 [TestNG-tests-1] Log - Verified header is available on Home Page
+[INFO ] 2022-03-16 12:20:21.356 [TestNG-tests-1] Log - runTest4 test is starting.
+[INFO ] 2022-03-16 12:20:22.551 [TestNG-tests-1] Log - Clicked on Shop tab
+[INFO ] 2022-03-16 12:20:27.704 [TestNG-tests-1] Log - Clicked on Buy button for Valentine Bear
+[INFO ] 2022-03-16 12:20:28.846 [TestNG-tests-1] Log - Clicked on Buy button for Valentine Bear
+[INFO ] 2022-03-16 12:20:29.991 [TestNG-tests-1] Log - Clicked on Buy button for Valentine Bear
+[INFO ] 2022-03-16 12:20:31.180 [TestNG-tests-1] Log - Clicked on Buy button for Fluffy Bunny
+[INFO ] 2022-03-16 12:20:32.285 [TestNG-tests-1] Log - Clicked on Buy button for Fluffy Bunny
+[INFO ] 2022-03-16 12:20:33.444 [TestNG-tests-1] Log - Clicked on Buy button for Fluffy Bunny
+[INFO ] 2022-03-16 12:20:34.556 [TestNG-tests-1] Log - Clicked on Buy button for Fluffy Bunny
+[INFO ] 2022-03-16 12:20:35.950 [TestNG-tests-1] Log - Clicked on Buy button for Fluffy Bunny
+[INFO ] 2022-03-16 12:20:37.102 [TestNG-tests-1] Log - Clicked on Buy button for Stuffed Frog
+[INFO ] 2022-03-16 12:20:38.250 [TestNG-tests-1] Log - Clicked on Buy button for Stuffed Frog
+[INFO ] 2022-03-16 12:20:39.407 [TestNG-tests-1] Log - Clicked on Cart icon
+[INFO ] 2022-03-16 12:20:40.714 [TestNG-tests-1] Log - Verified price in cart for item Fluffy Bunny as $8.99
+[INFO ] 2022-03-16 12:20:41.858 [TestNG-tests-1] Log - Verified subtotal in cart for item Fluffy Bunny as 44.95
+[INFO ] 2022-03-16 12:20:43.381 [TestNG-tests-1] Log - Verified price in cart for item Stuffed Frog as $10.99
+[INFO ] 2022-03-16 12:20:44.555 [TestNG-tests-1] Log - Verified subtotal in cart for item Stuffed Frog as 21.98
+[INFO ] 2022-03-16 12:20:45.667 [TestNG-tests-1] Log - Verified price in cart for item Valentine Bear as $13.99
+[INFO ] 2022-03-16 12:20:46.808 [TestNG-tests-1] Log - Verified subtotal in cart for item Valentine Bear as 41.97
+[INFO ] 2022-03-16 12:20:48.134 [TestNG-tests-1] Log - Verified total price for all items in cart 108.9
+[INFO ] 2022-03-16 12:20:48.137 [TestNG-tests-1] Log - runTest4 test passed.
+[INFO ] 2022-03-16 12:20:57.348 [TestNG-tests-1] Log - Finished - Tests : Chrome Tests
+[INFO ] 2022-03-16 13:30:15.744 [main] Log - Started - Tests : Chrome Tests
+[INFO ] 2022-03-16 13:30:17.195 [main] Log - runTest1 test skipped.
+[INFO ] 2022-03-16 13:30:17.634 [main] Log - Finished - Tests : Chrome Tests
+[INFO ] 2022-03-16 13:55:56.988 [main] Log - Started - Tests : Chrome Tests
+[INFO ] 2022-03-16 13:55:58.346 [main] Log - runTest1 test skipped.
+[INFO ] 2022-03-16 13:55:58.809 [main] Log - Finished - Tests : Chrome Tests
+[INFO ] 2022-03-16 13:59:20.363 [main] Log - Started - Tests : Chrome Tests
+[INFO ] 2022-03-16 13:59:29.961 [main] Log - runTest1 test is starting.
+[INFO ] 2022-03-16 13:59:49.709 [main] Log - Entered credentials on login page
+[INFO ] 2022-03-16 13:59:49.715 [main] Log - runTest1 test passed.
+[INFO ] 2022-03-16 13:59:50.145 [main] Log - runTest1 test failed.
+[INFO ] 2022-03-16 14:00:07.118 [main] Log - Finished - Tests : Chrome Tests
+[INFO ] 2022-03-16 14:36:13.009 [main] Log - Started - Tests : Chrome Tests
+[INFO ] 2022-03-16 14:36:14.816 [main] Log - runTest1 test failed.
+[INFO ] 2022-03-16 14:36:14.852 [main] Log - Finished - Tests : Chrome Tests
+[INFO ] 2022-03-16 14:37:21.955 [main] Log - Started - Tests : Chrome Tests
+[INFO ] 2022-03-16 14:37:23.717 [main] Log - runTest1 test failed.
+[INFO ] 2022-03-16 14:37:23.764 [main] Log - Finished - Tests : Chrome Tests
+[INFO ] 2022-03-16 14:39:56.183 [main] Log - Started - Tests : Chrome Tests
+[INFO ] 2022-03-16 14:39:57.998 [main] Log - runTest1 test failed.
+[INFO ] 2022-03-16 14:39:58.032 [main] Log - Finished - Tests : Chrome Tests
+[INFO ] 2022-03-16 14:40:25.034 [main] Log - Started - Tests : Chrome Tests
+[INFO ] 2022-03-16 14:40:26.804 [main] Log - runTest1 test failed.
+[INFO ] 2022-03-16 14:40:26.835 [main] Log - Finished - Tests : Chrome Tests
+[INFO ] 2022-03-16 14:41:00.730 [main] Log - Started - Tests : Chrome Tests
+[INFO ] 2022-03-16 14:41:02.644 [main] Log - runTest1 test failed.
+[INFO ] 2022-03-16 14:41:02.684 [main] Log - Finished - Tests : Chrome Tests
+[INFO ] 2022-03-16 14:42:29.469 [main] Log - Started - Tests : Chrome Tests
+[INFO ] 2022-03-16 14:42:31.100 [main] Log - verifyLoginFunctionality test failed.
+[INFO ] 2022-03-16 14:42:31.130 [main] Log - Finished - Tests : Chrome Tests
+[INFO ] 2022-03-16 14:43:20.884 [main] Log - Started - Tests : Chrome Tests
+[INFO ] 2022-03-16 14:49:35.848 [main] Log - Started - Tests : Chrome Tests
+[INFO ] 2022-03-16 14:49:37.579 [main] Log - verifyLoginFunctionality test skipped.
+[INFO ] 2022-03-16 14:49:38.111 [main] Log - Finished - Tests : Chrome Tests
+[INFO ] 2022-03-16 14:50:17.681 [main] Log - Started - Tests : Chrome Tests
+[INFO ] 2022-03-16 14:50:48.194 [main] Log - Started - Tests : Chrome Tests
+[INFO ] 2022-03-16 14:52:46.836 [main] Log - Started - Tests : Chrome Tests
+[INFO ] 2022-03-16 14:53:50.852 [main] Log - verifyLoginFunctionality test failed.
+[INFO ] 2022-03-16 14:53:50.891 [main] Log - Finished - Tests : Chrome Tests
+[INFO ] 2022-03-16 14:56:56.692 [main] Log - Started - Tests : Chrome Tests
+[INFO ] 2022-03-16 14:57:07.578 [main] Log - verifyLoginFunctionality test is starting.
+[INFO ] 2022-03-16 14:57:12.919 [main] Log - Entered credentials on login page
+[INFO ] 2022-03-16 14:57:12.923 [main] Log - verifyLoginFunctionality test passed.
+[INFO ] 2022-03-16 14:57:13.487 [main] Log - verifyLoginFunctionality test failed.
+[INFO ] 2022-03-16 14:57:31.144 [main] Log - Finished - Tests : Chrome Tests
+[INFO ] 2022-03-16 14:59:04.068 [main] Log - Started - Tests : Chrome Tests
+[INFO ] 2022-03-16 14:59:14.512 [main] Log - verifyLoginFunctionality test is starting.
+[INFO ] 2022-03-16 14:59:35.748 [main] Log - Entered credentials on login page
+[INFO ] 2022-03-16 14:59:35.751 [main] Log - verifyLoginFunctionality test passed.
+[INFO ] 2022-03-16 14:59:36.255 [main] Log - verifyLoginFunctionality test failed.
+[INFO ] 2022-03-16 14:59:52.262 [main] Log - Finished - Tests : Chrome Tests
+[INFO ] 2022-03-16 15:53:40.833 [main] Log - Started - Tests : Firefox Tests
+[INFO ] 2022-03-16 15:53:58.302 [main] Log - verifyLoginFunctionality test is starting.
+[INFO ] 2022-03-16 15:54:05.509 [main] Log - Entered credentials on login page
+[INFO ] 2022-03-16 15:54:05.512 [main] Log - verifyLoginFunctionality test passed.
+[INFO ] 2022-03-16 15:54:06.140 [main] Log - verifyLoginFunctionality test failed.
+[INFO ] 2022-03-16 15:54:06.568 [main] Log - Finished - Tests : Firefox Tests
+[INFO ] 2022-03-16 16:00:46.202 [main] Log - Started - Tests : Firefox Tests
+[INFO ] 2022-03-16 16:01:00.133 [main] Log - verifyLoginFunctionality test is starting.
+[INFO ] 2022-03-16 16:01:12.141 [main] Log - Entered Admin in username text box
+[INFO ] 2022-03-16 16:01:54.050 [main] Log - Entered admin123 in password text box
+[INFO ] 2022-03-16 16:02:03.831 [main] Log - Clicked on Login button
+[INFO ] 2022-03-16 16:04:10.749 [main] Log - verifyLoginFunctionality test passed.
+[INFO ] 2022-03-16 16:04:52.087 [main] Log - verifyLoginFunctionality test failed.
+[INFO ] 2022-03-16 16:05:12.990 [main] Log - Finished - Tests : Firefox Tests
+[INFO ] 2022-03-16 16:07:14.906 [main] Log - Started - Tests : Firefox Tests
+[INFO ] 2022-03-16 16:07:31.958 [main] Log - verifyLoginFunctionality test is starting.
+[INFO ] 2022-03-16 16:07:58.575 [main] Log - Entered Admin in username text box
+[INFO ] 2022-03-16 16:07:59.727 [main] Log - Entered admin123 in password text box
+[INFO ] 2022-03-16 16:08:04.140 [main] Log - Clicked on Login button
+[INFO ] 2022-03-16 16:08:04.143 [main] Log - verifyLoginFunctionality test passed.
+[INFO ] 2022-03-16 16:08:04.797 [main] Log - verifyLoginFunctionality test failed.
+[INFO ] 2022-03-16 16:08:05.287 [main] Log - Finished - Tests : Firefox Tests
+[INFO ] 2022-03-16 16:09:09.978 [main] Log - Started - Tests : Firefox Tests
+[INFO ] 2022-03-16 16:09:35.286 [main] Log - verifyLoginFunctionality test is starting.
+[INFO ] 2022-03-16 16:09:43.676 [main] Log - Entered Admin in username text box
+[INFO ] 2022-03-16 16:09:45.610 [main] Log - Entered admin123 in password text box
+[INFO ] 2022-03-16 16:09:52.134 [main] Log - Clicked on Login button
+[INFO ] 2022-03-16 16:11:13.888 [main] Log - verifyLoginFunctionality test passed.
+[INFO ] 2022-03-16 16:12:20.751 [main] Log - verifyLoginFunctionality test failed.
+[INFO ] 2022-03-16 16:12:39.611 [main] Log - Finished - Tests : Firefox Tests
+[INFO ] 2022-03-16 16:15:01.190 [main] Log - Entered Admin in username text box
+[INFO ] 2022-03-16 16:15:02.324 [main] Log - Entered admin123 in password text box
+[INFO ] 2022-03-16 16:15:06.758 [main] Log - Clicked on Login button
+[INFO ] 2022-03-16 16:21:17.754 [main] Log - Entered Admin in username text box
+[INFO ] 2022-03-16 16:21:18.885 [main] Log - Entered admin123 in password text box
+[INFO ] 2022-03-16 16:21:23.479 [main] Log - Clicked on Login button
+[INFO ] 2022-03-16 16:47:07.145 [main] Log - Entered Admin in username text box
+[INFO ] 2022-03-16 16:47:08.274 [main] Log - Entered admin123 in password text box
+[INFO ] 2022-03-16 16:47:13.058 [main] Log - Clicked on Login button
+[INFO ] 2022-03-16 16:47:14.399 [main] Log - Clicked on logged in user link
+[INFO ] 2022-03-16 16:47:15.554 [main] Log - Logout link displayed
+[INFO ] 2022-03-16 16:49:46.168 [main] Log - Entered Admin123 in username text box
+[INFO ] 2022-03-16 16:49:47.307 [main] Log - Entered admin123 in password text box
+[INFO ] 2022-03-16 16:49:50.154 [main] Log - Clicked on Login button
+[INFO ] 2022-03-16 16:50:32.735 [main] Log - Entered Admin in username text box
+[INFO ] 2022-03-16 16:50:33.890 [main] Log - Entered admin in password text box
+[INFO ] 2022-03-16 16:50:36.745 [main] Log - Clicked on Login button
+[INFO ] 2022-03-16 16:51:18.327 [main] Log - Entered Admin in username text box
+[INFO ] 2022-03-16 16:51:19.449 [main] Log - Entered admin123 in password text box
+[INFO ] 2022-03-16 16:51:24.004 [main] Log - Clicked on Login button
+[INFO ] 2022-03-16 16:51:25.317 [main] Log - Clicked on logged in user link
+[INFO ] 2022-03-16 16:51:26.413 [main] Log - Logout link displayed
+[INFO ] 2022-03-16 16:54:57.250 [main] Log - Started - Tests : Firefox Tests
+[INFO ] 2022-03-16 16:55:11.601 [main] Log - verifyLoginFunctionality test is starting.
+[INFO ] 2022-03-16 16:55:13.416 [main] Log - Entered Admin123 in username text box
+[INFO ] 2022-03-16 16:55:14.540 [main] Log - Entered admin123 in password text box
+[INFO ] 2022-03-16 16:55:17.412 [main] Log - Clicked on Login button
+[INFO ] 2022-03-16 16:55:28.437 [main] Log - verifyLoginFunctionality test failed.
+[INFO ] 2022-03-16 16:55:58.677 [main] Log - verifyLoginFunctionality test is starting.
+[INFO ] 2022-03-16 16:55:59.847 [main] Log - Entered Admin in username text box
+[INFO ] 2022-03-16 16:56:00.962 [main] Log - Entered admin in password text box
+[INFO ] 2022-03-16 16:56:04.156 [main] Log - Clicked on Login button
+[INFO ] 2022-03-16 16:56:15.163 [main] Log - verifyLoginFunctionality test failed.
+[INFO ] 2022-03-16 16:56:45.481 [main] Log - verifyLoginFunctionality test is starting.
+[INFO ] 2022-03-16 16:56:46.649 [main] Log - Entered Admin in username text box
+[INFO ] 2022-03-16 16:56:47.760 [main] Log - Entered admin123 in password text box
+[INFO ] 2022-03-16 16:56:52.589 [main] Log - Clicked on Login button
+[INFO ] 2022-03-16 16:56:54.022 [main] Log - Clicked on logged in user link
+[INFO ] 2022-03-16 16:56:55.153 [main] Log - Logout link displayed
+[INFO ] 2022-03-16 16:56:55.155 [main] Log - verifyLoginFunctionality test passed.
+[INFO ] 2022-03-16 16:56:57.028 [main] Log - Finished - Tests : Firefox Tests
+[INFO ] 2022-03-16 17:01:29.012 [main] Log - Started - Tests : Firefox Tests
+[INFO ] 2022-03-16 17:01:48.509 [TestNG-PoolService-1] Log - verifyLoginFunctionality test is starting.
+[INFO ] 2022-03-16 17:01:48.889 [TestNG-PoolService-0] Log - verifyLoginFunctionality test is starting.
+[INFO ] 2022-03-16 17:01:50.339 [TestNG-PoolService-2] Log - verifyLoginFunctionality test is starting.
+[INFO ] 2022-03-16 17:01:50.845 [TestNG-PoolService-0] Log - Entered Admin123 in username text box
+[INFO ] 2022-03-16 17:01:50.889 [TestNG-PoolService-1] Log - Entered Admin in username text box
+[INFO ] 2022-03-16 17:01:51.447 [TestNG-PoolService-2] Log - Entered Admin in username text box
+[INFO ] 2022-03-16 17:01:51.994 [TestNG-PoolService-0] Log - Entered admin123 in password text box
+[INFO ] 2022-03-16 17:01:52.089 [TestNG-PoolService-1] Log - Entered admin in password text box
+[INFO ] 2022-03-16 17:01:52.543 [TestNG-PoolService-2] Log - Entered admin123 in password text box
+[INFO ] 2022-03-16 17:01:54.900 [TestNG-PoolService-0] Log - Clicked on Login button
+[INFO ] 2022-03-16 17:02:05.921 [TestNG-PoolService-0] Log - verifyLoginFunctionality test failed.
+[INFO ] 2022-03-16 17:02:25.584 [TestNG-PoolService-1] Log - Clicked on Login button
+[INFO ] 2022-03-16 17:02:25.805 [TestNG-PoolService-2] Log - Clicked on Login button
+[INFO ] 2022-03-16 17:02:36.604 [TestNG-PoolService-1] Log - verifyLoginFunctionality test failed.
+[INFO ] 2022-03-16 17:02:36.827 [TestNG-PoolService-2] Log - verifyLoginFunctionality test failed.
+[INFO ] 2022-03-16 17:02:58.855 [main] Log - Finished - Tests : Firefox Tests
+[INFO ] 2022-03-16 17:16:31.071 [main] Log - Started - Tests : Firefox Tests
+[INFO ] 2022-03-16 17:18:23.401 [TestNG-PoolService-0] Log - verifyLoginFunctionality test skipped.
+[INFO ] 2022-03-16 17:18:30.010 [TestNG-PoolService-1] Log - verifyLoginFunctionality test skipped.
+[INFO ] 2022-03-16 17:18:33.896 [main] Log - verifyLoginFunctionality test failed.
+[INFO ] 2022-03-16 17:18:33.894 [TestNG-PoolService-2] Log - verifyLoginFunctionality test skipped.
+[INFO ] 2022-03-16 17:19:51.289 [main] Log - Finished - Tests : Firefox Tests
+[INFO ] 2022-03-16 17:24:17.037 [main] Log - Started - Tests : Firefox Tests
+[INFO ] 2022-03-16 17:25:41.368 [TestNG-PoolService-1] Log - verifyLoginFunctionality test skipped.
+[INFO ] 2022-03-16 17:25:44.078 [TestNG-PoolService-0] Log - verifyLoginFunctionality test skipped.
+[INFO ] 2022-03-16 17:25:44.084 [main] Log - verifyLoginFunctionality test failed.
+[INFO ] 2022-03-16 17:25:46.366 [TestNG-PoolService-2] Log - verifyLoginFunctionality test skipped.
+[INFO ] 2022-03-16 17:27:27.271 [main] Log - Started - Tests : Firefox Tests
+[INFO ] 2022-03-16 17:29:02.689 [main] Log - Finished - Tests : Firefox Tests
+[INFO ] 2022-03-16 17:34:15.146 [main] Log - Started - Tests : Firefox Tests
+[INFO ] 2022-03-16 17:35:44.092 [TestNG-PoolService-1] Log - verifyLoginFunctionality test skipped.
+[INFO ] 2022-03-16 17:35:46.348 [TestNG-PoolService-2] Log - verifyLoginFunctionality test skipped.
+[INFO ] 2022-03-16 17:35:46.386 [TestNG-PoolService-0] Log - verifyLoginFunctionality test skipped.
+[INFO ] 2022-03-16 17:35:46.391 [main] Log - verifyLoginFunctionality test failed.
+[INFO ] 2022-03-16 17:38:59.688 [main] Log - Finished - Tests : Firefox Tests
+[INFO ] 2022-03-16 17:39:35.256 [main] Log - Started - Tests : Firefox Tests
+[INFO ] 2022-03-16 17:39:51.467 [TestNG-PoolService-2] Log - verifyLoginFunctionality test is starting.
+[INFO ] 2022-03-16 17:39:53.675 [TestNG-PoolService-0] Log - verifyLoginFunctionality test is starting.
+[INFO ] 2022-03-16 17:39:54.542 [TestNG-PoolService-1] Log - verifyLoginFunctionality test is starting.
+[INFO ] 2022-03-16 17:41:22.798 [main] Log - Started - Tests : Firefox Tests
+[INFO ] 2022-03-16 17:41:36.775 [TestNG-PoolService-2] Log - verifyLoginFunctionality test is starting.
+[INFO ] 2022-03-16 17:41:36.786 [TestNG-PoolService-0] Log - verifyLoginFunctionality test is starting.
+[INFO ] 2022-03-16 17:41:43.464 [TestNG-PoolService-1] Log - verifyLoginFunctionality test is starting.
+[INFO ] 2022-03-16 17:42:17.813 [TestNG-PoolService-0] Log - verifyLoginFunctionality test failed.
+[INFO ] 2022-03-16 17:42:23.395 [TestNG-PoolService-2] Log - verifyLoginFunctionality test failed.
+[INFO ] 2022-03-16 17:42:24.348 [TestNG-PoolService-1] Log - verifyLoginFunctionality test failed.
+[INFO ] 2022-03-16 17:42:24.354 [main] Log - verifyLoginFunctionality test failed.
+[INFO ] 2022-03-16 17:42:40.115 [main] Log - Started - Tests : Firefox Tests
+[INFO ] 2022-03-16 17:42:55.340 [TestNG-PoolService-0] Log - verifyLoginFunctionality test is starting.
+[INFO ] 2022-03-16 17:42:56.461 [TestNG-PoolService-1] Log - verifyLoginFunctionality test is starting.
+[INFO ] 2022-03-16 17:42:57.415 [TestNG-PoolService-2] Log - verifyLoginFunctionality test is starting.
+[INFO ] 2022-03-16 17:45:45.033 [main] Log - Finished - Tests : Firefox Tests
+[INFO ] 2022-03-16 17:50:24.638 [main] Log - Started - Tests : Firefox Tests
+[INFO ] 2022-03-16 17:50:24.834 [TestNG-PoolService-1] Log - testMethod test skipped.
+[INFO ] 2022-03-16 17:50:24.845 [TestNG-PoolService-2] Log - testMethod test skipped.
+[INFO ] 2022-03-16 17:50:24.867 [TestNG-PoolService-0] Log - testMethod test skipped.
+[INFO ] 2022-03-16 17:50:25.359 [main] Log - testMethod test failed.
+[INFO ] 2022-03-16 17:50:38.169 [main] Log - Finished - Tests : Firefox Tests
+[INFO ] 2022-03-16 17:55:08.889 [main] Log - Started - Tests : Firefox Tests
+[INFO ] 2022-03-16 17:55:23.119 [TestNG-PoolService-2] Log - verifyLoginFunctionality test is starting.
+[INFO ] 2022-03-16 17:55:24.639 [TestNG-PoolService-1] Log - verifyLoginFunctionality test is starting.
+[INFO ] 2022-03-16 17:55:25.106 [TestNG-PoolService-0] Log - verifyLoginFunctionality test is starting.
+[INFO ] 2022-03-16 17:56:03.458 [TestNG-PoolService-1] Log - verifyLoginFunctionality test failed.
+[INFO ] 2022-03-16 17:56:03.468 [TestNG-PoolService-2] Log - verifyLoginFunctionality test failed.
+[INFO ] 2022-03-16 17:56:03.473 [TestNG-PoolService-0] Log - verifyLoginFunctionality test failed.
+[INFO ] 2022-03-16 17:57:01.368 [main] Log - Finished - Tests : Firefox Tests
+[INFO ] 2022-03-16 18:00:16.391 [main] Log - Started - Tests : Firefox Tests
+[INFO ] 2022-03-16 18:00:33.909 [TestNG-PoolService-0] Log - verifyLoginFunctionality test is starting.
+[INFO ] 2022-03-16 18:00:33.983 [TestNG-PoolService-1] Log - verifyLoginFunctionality test is starting.
+[INFO ] 2022-03-16 18:00:34.547 [TestNG-PoolService-2] Log - verifyLoginFunctionality test is starting.
+[INFO ] 2022-03-16 18:01:10.142 [TestNG-PoolService-0] Log - verifyLoginFunctionality test failed.
+[INFO ] 2022-03-16 18:01:10.161 [TestNG-PoolService-2] Log - verifyLoginFunctionality test failed.
+[INFO ] 2022-03-16 18:01:10.170 [TestNG-PoolService-1] Log - verifyLoginFunctionality test failed.
+[INFO ] 2022-03-16 18:02:51.072 [main] Log - Started - Tests : Firefox Tests
+[INFO ] 2022-03-16 18:03:08.425 [TestNG-PoolService-0] Log - verifyLoginFunctionality test is starting.
+[INFO ] 2022-03-16 18:03:11.243 [TestNG-PoolService-2] Log - verifyLoginFunctionality test is starting.
+[INFO ] 2022-03-16 18:03:11.298 [TestNG-PoolService-1] Log - verifyLoginFunctionality test is starting.
+[INFO ] 2022-03-16 18:03:31.699 [main] Log - Finished - Tests : Firefox Tests
+[INFO ] 2022-03-16 18:05:41.065 [main] Log - Started - Tests : Firefox Tests
+[INFO ] 2022-03-16 18:05:57.441 [TestNG-PoolService-1] Log - verifyLoginFunctionality test is starting.
+[INFO ] 2022-03-16 18:05:57.508 [TestNG-PoolService-0] Log - verifyLoginFunctionality test is starting.
+[INFO ] 2022-03-16 18:05:57.880 [TestNG-PoolService-2] Log - verifyLoginFunctionality test is starting.
+[INFO ] 2022-03-16 18:06:28.470 [main] Log - Started - Tests : Firefox Tests
+[INFO ] 2022-03-16 18:06:43.114 [TestNG-PoolService-0] Log - verifyLoginFunctionality test is starting.
+[INFO ] 2022-03-16 18:06:43.218 [TestNG-PoolService-1] Log - verifyLoginFunctionality test is starting.
+[INFO ] 2022-03-16 18:06:43.233 [TestNG-PoolService-2] Log - verifyLoginFunctionality test is starting.
+[INFO ] 2022-03-16 18:06:50.073 [TestNG-PoolService-0] Log - verifyLoginFunctionality test passed.
+[INFO ] 2022-03-16 18:06:50.254 [TestNG-PoolService-1] Log - verifyLoginFunctionality test passed.
+[INFO ] 2022-03-16 18:06:51.165 [TestNG-PoolService-2] Log - verifyLoginFunctionality test passed.
+[INFO ] 2022-03-16 18:06:53.645 [main] Log - Finished - Tests : Firefox Tests
+[INFO ] 2022-03-16 18:10:41.117 [main] Log - Started - Tests : Firefox Tests
+[INFO ] 2022-03-16 18:10:54.564 [TestNG-PoolService-1] Log - verifyLoginFunctionality test is starting.
+[INFO ] 2022-03-16 18:10:54.656 [TestNG-PoolService-0] Log - verifyLoginFunctionality test is starting.
+[INFO ] 2022-03-16 18:10:55.204 [TestNG-PoolService-2] Log - verifyLoginFunctionality test is starting.
+[INFO ] 2022-03-16 18:11:40.273 [TestNG-PoolService-2] Log - verifyLoginFunctionality test failed.
+[INFO ] 2022-03-16 18:11:40.280 [TestNG-PoolService-1] Log - verifyLoginFunctionality test failed.
+[INFO ] 2022-03-16 18:11:40.284 [TestNG-PoolService-0] Log - verifyLoginFunctionality test failed.
+[INFO ] 2022-03-16 18:12:32.472 [main] Log - Finished - Tests : Firefox Tests
+[INFO ] 2022-03-16 18:17:50.209 [main] Log - Started - Tests : Firefox Tests
+[INFO ] 2022-03-16 18:18:07.681 [TestNG-PoolService-0] Log - verifyLoginFunctionality test is starting.
+[INFO ] 2022-03-16 18:18:08.124 [TestNG-PoolService-1] Log - verifyLoginFunctionality test is starting.
+[INFO ] 2022-03-16 18:18:08.490 [TestNG-PoolService-2] Log - verifyLoginFunctionality test is starting.
+[INFO ] 2022-03-16 18:20:30.485 [main] Log - Started - Tests : Firefox Tests
+[INFO ] 2022-03-16 18:20:45.613 [TestNG-PoolService-0] Log - verifyLoginFunctionality test is starting.
+[INFO ] 2022-03-16 18:20:45.640 [TestNG-PoolService-2] Log - verifyLoginFunctionality test is starting.
+[INFO ] 2022-03-16 18:20:46.318 [TestNG-PoolService-1] Log - verifyLoginFunctionality test is starting.
+[INFO ] 2022-03-16 18:20:56.885 [TestNG-PoolService-1] Log - Entered Admin in username text box
+[INFO ] 2022-03-16 18:20:57.065 [TestNG-PoolService-2] Log - Entered Admin in username text box
+[INFO ] 2022-03-16 18:20:57.110 [TestNG-PoolService-0] Log - Entered Admin123 in username text box
+[INFO ] 2022-03-16 18:20:58.000 [TestNG-PoolService-1] Log - Entered admin in password text box
+[INFO ] 2022-03-16 18:20:58.182 [TestNG-PoolService-2] Log - Entered admin123 in password text box
+[INFO ] 2022-03-16 18:20:58.277 [TestNG-PoolService-0] Log - Entered admin123 in password text box
+[INFO ] 2022-03-16 18:21:00.996 [TestNG-PoolService-1] Log - Clicked on Login button
+[INFO ] 2022-03-16 18:21:01.000 [TestNG-PoolService-1] Log - verifyLoginFunctionality test passed.
+[INFO ] 2022-03-16 18:21:01.532 [TestNG-PoolService-0] Log - Clicked on Login button
+[INFO ] 2022-03-16 18:21:01.534 [TestNG-PoolService-0] Log - verifyLoginFunctionality test passed.
+[INFO ] 2022-03-16 18:21:03.930 [TestNG-PoolService-2] Log - Clicked on Login button
+[INFO ] 2022-03-16 18:21:03.931 [TestNG-PoolService-2] Log - verifyLoginFunctionality test passed.
+[INFO ] 2022-03-16 18:21:39.394 [main] Log - Finished - Tests : Firefox Tests
+[INFO ] 2022-03-16 18:23:34.605 [main] Log - Started - Tests : Firefox Tests
+[INFO ] 2022-03-16 18:23:48.078 [TestNG-PoolService-1] Log - verifyLoginFunctionality test is starting.
+[INFO ] 2022-03-16 18:23:49.302 [TestNG-PoolService-0] Log - verifyLoginFunctionality test is starting.
+[INFO ] 2022-03-16 18:23:50.056 [TestNG-PoolService-2] Log - verifyLoginFunctionality test is starting.
+[INFO ] 2022-03-16 18:24:04.800 [TestNG-PoolService-1] Log - Entered Admin in username text box
+[INFO ] 2022-03-16 18:24:04.882 [TestNG-PoolService-0] Log - Entered Admin123 in username text box
+[INFO ] 2022-03-16 18:24:04.931 [TestNG-PoolService-2] Log - Entered Admin in username text box
+[INFO ] 2022-03-16 18:24:05.898 [TestNG-PoolService-1] Log - Entered admin in password text box
+[INFO ] 2022-03-16 18:24:06.035 [TestNG-PoolService-0] Log - Entered admin123 in password text box
+[INFO ] 2022-03-16 18:24:06.081 [TestNG-PoolService-2] Log - Entered admin123 in password text box
+[INFO ] 2022-03-16 18:24:09.091 [TestNG-PoolService-0] Log - Clicked on Login button
+[INFO ] 2022-03-16 18:24:09.150 [TestNG-PoolService-1] Log - Clicked on Login button
+[INFO ] 2022-03-16 18:24:11.201 [TestNG-PoolService-2] Log - Clicked on Login button
+[INFO ] 2022-03-16 18:24:12.494 [TestNG-PoolService-2] Log - Clicked on logged in user link
+[INFO ] 2022-03-16 18:24:13.576 [TestNG-PoolService-2] Log - Logout link displayed
+[INFO ] 2022-03-16 18:24:13.578 [TestNG-PoolService-2] Log - verifyLoginFunctionality test passed.
+[INFO ] 2022-03-16 18:24:20.112 [TestNG-PoolService-0] Log - verifyLoginFunctionality test failed.
+[INFO ] 2022-03-16 18:24:20.161 [TestNG-PoolService-1] Log - verifyLoginFunctionality test failed.
+[INFO ] 2022-03-16 18:24:41.016 [main] Log - Finished - Tests : Firefox Tests
+[INFO ] 2022-03-16 18:29:38.239 [main] Log - Started - Tests : Firefox Tests
+[INFO ] 2022-03-16 18:29:52.524 [TestNG-PoolService-0] Log - verifyLoginFunctionality test is starting.
+[INFO ] 2022-03-16 18:29:52.775 [TestNG-PoolService-1] Log - verifyLoginFunctionality test is starting.
+[INFO ] 2022-03-16 18:29:53.431 [TestNG-PoolService-2] Log - verifyLoginFunctionality test is starting.
+[INFO ] 2022-03-16 18:30:00.482 [TestNG-PoolService-0] Log - Entered Admin123 in username text box
+[INFO ] 2022-03-16 18:30:00.587 [TestNG-PoolService-2] Log - Entered Admin in username text box
+[INFO ] 2022-03-16 18:30:00.676 [TestNG-PoolService-1] Log - Entered Admin in username text box
+[INFO ] 2022-03-16 18:30:01.686 [TestNG-PoolService-0] Log - Entered admin123 in password text box
+[INFO ] 2022-03-16 18:30:01.787 [TestNG-PoolService-2] Log - Entered admin123 in password text box
+[INFO ] 2022-03-16 18:30:01.860 [TestNG-PoolService-1] Log - Entered admin in password text box
+[INFO ] 2022-03-16 18:30:04.238 [TestNG-PoolService-0] Log - Clicked on Login button
+[INFO ] 2022-03-16 18:32:50.621 [main] Log - Started - Tests : Firefox Tests
+[INFO ] 2022-03-16 18:33:07.139 [TestNG-PoolService-0] Log - verifyLoginFunctionality test is starting.
+[INFO ] 2022-03-16 18:33:08.249 [TestNG-PoolService-2] Log - verifyLoginFunctionality test is starting.
+[INFO ] 2022-03-16 18:33:09.045 [TestNG-PoolService-1] Log - verifyLoginFunctionality test is starting.
+[INFO ] 2022-03-16 18:33:14.885 [TestNG-PoolService-0] Log - Entered Admin123 in username text box
+[INFO ] 2022-03-16 18:33:15.028 [TestNG-PoolService-2] Log - Entered Admin in username text box
+[INFO ] 2022-03-16 18:33:15.485 [TestNG-PoolService-1] Log - Entered Admin in username text box
+[INFO ] 2022-03-16 18:33:16.017 [TestNG-PoolService-0] Log - Entered admin123 in password text box
+[INFO ] 2022-03-16 18:33:16.163 [TestNG-PoolService-2] Log - Entered admin123 in password text box
+[INFO ] 2022-03-16 18:33:16.622 [TestNG-PoolService-1] Log - Entered admin in password text box
+[INFO ] 2022-03-16 18:33:18.768 [TestNG-PoolService-0] Log - Clicked on Login button
+[INFO ] 2022-03-16 18:33:20.303 [TestNG-PoolService-1] Log - Clicked on Login button
+[INFO ] 2022-03-16 18:33:21.146 [TestNG-PoolService-2] Log - Clicked on Login button
+[INFO ] 2022-03-16 18:33:22.635 [TestNG-PoolService-2] Log - Clicked on logged in user link
+[INFO ] 2022-03-16 18:33:23.741 [TestNG-PoolService-2] Log - Logout link displayed
+[INFO ] 2022-03-16 18:33:23.743 [TestNG-PoolService-2] Log - verifyLoginFunctionality test passed.
+[INFO ] 2022-03-16 18:33:29.787 [TestNG-PoolService-0] Log - verifyLoginFunctionality test failed.
+[INFO ] 2022-03-16 18:33:31.315 [TestNG-PoolService-1] Log - verifyLoginFunctionality test failed.
+[INFO ] 2022-03-16 18:33:51.663 [main] Log - Finished - Tests : Firefox Tests
